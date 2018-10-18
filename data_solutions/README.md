@@ -1,0 +1,1 @@
+This repo would contain some easy solutions to data science problems.
